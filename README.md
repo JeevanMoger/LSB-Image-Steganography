@@ -1,1 +1,2 @@
 # LSB-Image-Steganography
+This project demonstrates the technique of concealing information by embedding secret messages within ordinary-looking images, a method known as steganography. Using the Least Significant Bit (LSB) mechanism, unused bits in image data are replaced with bits of the hidden message. Both the sender and receiver use a shared key or secret to correctly encode and decode the information. This project also serves as a foundational introduction to basic image processing techniques.
